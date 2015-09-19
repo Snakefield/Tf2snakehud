@@ -23,7 +23,7 @@
          "ControlName"  "CTFImagePanel"
          "fieldName"    "TeamIndicator"	
          "xpos"         "92"		 
-		 "ypos"         "82"
+		 "ypos"         "80"
 		 "zpos"         "2"
 		 "wide"         "65"
 		 "tall"         "2"
@@ -82,11 +82,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"73"
-		"ypos"			"28"	[$WIN32]
+		"xpos"			"49"
+		"ypos"			"19"	[$WIN32]
 		"zpos"			"5"
-		"wide"			"100"
-		"tall"			"72"
+		"wide"			"150"
+		"tall"			"90"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
@@ -97,12 +97,12 @@
      "PlayerStatusHealthValueBG"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"75"
-		"ypos"			"30"	[$WIN32]
+		"fieldName"		"PlayerStatusHealthValueBG"
+		"xpos"			"51"
+		"ypos"			"21"	[$WIN32]
 		"zpos"			"4"
-		"wide"			"100"
-		"tall"			"72"
+		"wide"			"150"
+		"tall"			"90"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
@@ -117,8 +117,8 @@
 		"xpos"			"73"
 		"ypos"			"28"
 		"zpos"			"7"
-		"wide"			"100"
-		"tall"			"72"
+		"wide"			"32"
+		"tall"			"32"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
