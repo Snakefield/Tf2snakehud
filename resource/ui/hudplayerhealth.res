@@ -18,8 +18,8 @@
 		"HealthDeathWarning"	"0.49"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 	}
-     "TeamIndicator"
-     {
+     ////"TeamIndicator"
+     ///{
          "ControlName"  "CTFImagePanel"
          "fieldName"    "TeamIndicator"	
          "xpos"         "92"		 
@@ -36,7 +36,7 @@
 		 "teambg_1"     "../hud/color_panel_brown"
 		 "teambg_2"     "../hud/color_panel_red"
 		 "teambg_3"     "../hud/color_panel_blu"
-	 }
+	 ////}
 	"PlayerStatusHealthImage" ////WHITEIMAGE///
 	{
 		"ControlName"	"ImagePanel"
